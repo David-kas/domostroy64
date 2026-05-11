@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://remstroy64.vercel.app/</loc><changefreq>weekly</changefreq><priority>1</priority></url>
+  <url><loc>https://remstroy64.vercel.app/portfolio.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://remstroy64.vercel.app/reviews.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://remstroy64.vercel.app/about.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://remstroy64.vercel.app/contacts.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://remstroy64.vercel.app/faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/index.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/remont-kvartir.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/stroitelstvo-domov.html</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/elektromontazh.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/santehnika.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/otdelochnye-raboty.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/krovlya.html</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/fasadnye-raboty.html</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/shtukaturka.html</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/plitka.html</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/fundament.html</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/demontazh.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/gipsokarton.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://remstroy64.vercel.app/services/betonnye-raboty.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://remstroy64.vercel.app/regions/saratov.html</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://remstroy64.vercel.app/regions/saratovskaya-oblast.html</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+</urlset>

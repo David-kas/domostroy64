@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://remstroy64.vercel.app/sitemap.xml
